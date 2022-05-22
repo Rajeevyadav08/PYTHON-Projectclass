@@ -1,3 +1,6 @@
+# WAP to create nested dictionary using given list.
+
+
 test_dict = {'Gfg' : 4, 'is' : 5, 'best' : 9} 
 test_list = [8, 3, 2]
   
